@@ -1,0 +1,7 @@
+{
+  "name": "Smart Dry AI",
+  "description": "A companion app for the Smart Dry POS. Quickly create new orders by scanning customer garments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
